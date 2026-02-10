@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Oratile 
 
-<!--
-**Oratile132/Oratile132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer and recent **BSc IT (Software Engineering)** graduate.
+I enjoy building Java-based applications and working with database-driven systems.
 
-Here are some ideas to get you started:
+### 🎓 Background
+- BSc in Information Technology (Software Engineering)
+- Strong foundation in Java, SQL, systems analysis, and software design
+- Final-year project focused on mobile applications and web services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Java (OOP, data structures, algorithms)
+- SQL & database design
+- REST-style services (academic level)
+- HTML & CSS (basics)
+
+### 🚀 What I’m working on
+- Rebuilding core Java projects for my GitHub portfolio
+- Java CRUD applications
+- Strengthening backend development skills
+
+### 📂 Planned Projects
+- Java CRUD Application
+- Data Structures & Algorithms in Java
+- Basic Web Application (HTML/CSS)
+
+📍 South Africa  
+📫 LinkedIn: 
