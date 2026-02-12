@@ -25,4 +25,4 @@ I enjoy building Java-based applications and working with database-driven system
 - Basic Web Application (HTML/CSS)
 
 📍 South Africa  
-📫 LinkedIn: 
+📫 LinkedIn: www.linkedin.com/in/thato-mphahlele-a77870326
